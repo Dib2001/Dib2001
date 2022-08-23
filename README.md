@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/dibyataru-chakraborty-312056184/">
+  <a href="#">
     <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
    </a>
 </div>
 <div id="badges" align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/dibyataru-chakraborty-312056184/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="#">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
