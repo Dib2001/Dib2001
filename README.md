@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/dibyataru-chakraborty-312056184/">
     <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
    </a>
 </div>
