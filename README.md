@@ -25,7 +25,7 @@ I am a BCA Student <a href="#"><img src="https://media.giphy.com/media/WUlplcMpO
 
 - :telescope: :seedling: Exploring Technical Content.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on programing platforms and read tech articles.
 
 ---
 
